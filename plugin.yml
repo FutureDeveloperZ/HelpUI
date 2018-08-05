@@ -1,0 +1,9 @@
+name: HelpUI
+
+main: HelpUI/HelpUI/Main.php
+
+version: 3.1.0
+
+author: Wolfkid
+
+api: [3.0.0, 3.1.1]
