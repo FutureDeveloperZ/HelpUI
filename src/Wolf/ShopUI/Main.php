@@ -12,3 +12,14 @@ use pocketmine\event\Listener;
 use jojoe77777\FormAPI;
 
 class Main extends PluginBase implements Listener{
+
+   public function onEnable() {
+       $this->getLogger()->Info("HelpUI is ready to Help")
+       $this->getServer()->getPluginManager()->registerEvents($this, $this);
+   }
+  
+   public funtion onDisable() {
+       $this->getLogger()->Info("HelpUI has been Disable WHYY")
+   }
+  
+   public funtion onCommand(CommandSender $sender, Command
