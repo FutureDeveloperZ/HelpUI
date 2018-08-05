@@ -1,6 +1,6 @@
 name: HelpUI
 
-main: HelpUI/HelpUI/Main.php
+main: HelpUI/Main
 
 version: 3.1.0
 
