@@ -1,6 +1,6 @@
 ?help
 
- namespace ShopUI;
+namespace ShopUI;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\Player;
