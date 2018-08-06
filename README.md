@@ -14,3 +14,6 @@ Small Plugin Where u can Customized ur help menu
 ### =========================
 
 Check Wolfkid Channel [Here](https://youtube.com/c/Wolfkid)
+
+### ==========================
+ Check the plugin Wiki [Here](https://github.com/FutureDeveloperZ/HelpUI/wiki)
